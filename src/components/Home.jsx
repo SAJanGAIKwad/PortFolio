@@ -33,8 +33,7 @@ const Home = () => {
             />
           </p>
           <p className="text-base md:text-lg text-gray-500 max-w-xl mx-auto">
-            This is Sajan Gaikwad, a passionate Web Developer and Full Stack Developer eager to solve real-world problems
-            using technology.
+            I am a B.Tech IT student at PCCOE, Pune (2021-2025) with experience in AWS, Java, and the MERN stack. He has interned in cloud technologies, contributed to various web development projects, and published research in deep learning
           </p>
         </div>
 
