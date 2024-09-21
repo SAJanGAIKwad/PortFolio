@@ -11,7 +11,7 @@ import Contact from './components/Contact';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/PortFolio/">
       <Navbar />
       <div className="pt-16">
         <Routes>
